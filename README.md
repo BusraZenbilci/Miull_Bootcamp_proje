@@ -1,11 +1,10 @@
 # Miull_Bootcamp_proje
-########################################################################################################################
-###################################### MIUULBANK KREDİ ONAY TAHMİNİ ####################################################
-########################################################################################################################
+# MIUULBANK KREDİ ONAY TAHMİNİ #
 
-# Problem : Özellikleri belirtildiğinde kişilerin kredi alıp alamayacaklarını tahmin edebilecek bir makine öğrenmesi
-# modeli geliştirilmek istenmektedir. Model geliştirilirken gerekli olan veri analizi ve özellik mühendisliği
-# adımlarından sonra tahmin modeli kurulmuştur.
+
+ Problem : Özellikleri belirtildiğinde kişilerin kredi alıp alamayacaklarını tahmin edebilecek bir makine öğrenmesi
+ modeli geliştirilmek istenmektedir. Model geliştirilirken gerekli olan veri analizi ve özellik mühendisliği
+ adımlarından sonra tahmin modeli kurulmuştur.
 
 # Veri seti https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data adresinden alınmıştır.
 # Veri seti 4269 gözlem ve 12 bağımsız değişkenden oluşmaktadır. Hedef değişken "loan_status" olarak belirtilmiş olup;
