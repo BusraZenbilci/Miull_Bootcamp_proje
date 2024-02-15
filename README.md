@@ -10,7 +10,7 @@
  Veri seti 4269 gözlem ve 12 bağımsız değişkenden oluşmaktadır. Hedef değişken "loan_status" olarak belirtilmiş olup;
  "Approved" (0) kredinin onaylandığını, "Rejected" 1 ise kredinin onaylanmadığını belirtmektedir.
 
- loan_id : Her bir müşterinin benzersiz kimlik numarası.
+ loan_id : Her bir müşterinin benzersiz kimlik numarası. /n
  no_of_dependents : Başvuru sahibinin bakmakla yükümlü olduğu kişi sayısı.
  education : Başvuru sahibinin eğitim seviyesi, Lisansüstü ya da Lisansüstü değil.
  self_employed : Başvuru sahibinin serbest meslek sahibi olup olmadığı.
