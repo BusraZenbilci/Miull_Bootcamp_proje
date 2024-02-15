@@ -6,14 +6,14 @@
  modeli geliştirilmek istenmektedir. Model geliştirilirken gerekli olan veri analizi ve özellik mühendisliği
  adımlarından sonra tahmin modeli kurulmuştur.
 
-# Veri seti https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data adresinden alınmıştır.
-# Veri seti 4269 gözlem ve 12 bağımsız değişkenden oluşmaktadır. Hedef değişken "loan_status" olarak belirtilmiş olup;
-# "Approved" (0) kredinin onaylandığını, "Rejected" 1 ise kredinin onaylanmadığını belirtmektedir.
+ Veri seti https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset/data adresinden alınmıştır.
+ Veri seti 4269 gözlem ve 12 bağımsız değişkenden oluşmaktadır. Hedef değişken "loan_status" olarak belirtilmiş olup;
+ "Approved" (0) kredinin onaylandığını, "Rejected" 1 ise kredinin onaylanmadığını belirtmektedir.
 
-# loan_id : Her bir müşterinin benzersiz kimlik numarası.
-# no_of_dependents : Başvuru sahibinin bakmakla yükümlü olduğu kişi sayısı.
-# education : Başvuru sahibinin eğitim seviyesi, Lisansüstü ya da Lisansüstü değil.
-# self_employed : Başvuru sahibinin serbest meslek sahibi olup olmadığı.
+ loan_id : Her bir müşterinin benzersiz kimlik numarası.
+ no_of_dependents : Başvuru sahibinin bakmakla yükümlü olduğu kişi sayısı.
+ education : Başvuru sahibinin eğitim seviyesi, Lisansüstü ya da Lisansüstü değil.
+ self_employed : Başvuru sahibinin serbest meslek sahibi olup olmadığı.
 # income_annum : Başvuru sahibinin yıllık geliri.
 # loan_amount : Kredi için talep edilen toplam tutar.
 # loan_term : Kredinin geri ödenmesi gereken yıl cinsinden süre.
